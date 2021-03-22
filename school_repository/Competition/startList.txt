@@ -1,0 +1,92 @@
+1     Idmar Janele                   M12   Manušice        10:30:00        
+2     Tomáš Elvy                     M12   Klecany         10:30:00        
+3     Matěj Parásek                  M12   Manušice        10:30:00        
+4     Jan Číž                        M12   SKIBI VM        10:30:00        
+5     Jakub Neuhäuser                M12   KB Trefa        10:30:00        
+6     Matěj Obermajer                M12   SKIBI VM        10:30:00        
+7     František Jelínek              M12   KB Trefa        10:30:00        
+8     Lukáš Sáska                    M12   SKPKornspitz    10:30:00        
+9     Jiří Červenka                  M12   Klecany         10:30:00        
+10    Lukáš Devera                   M12   Klecany         10:30:00        
+11    Vilém Hron                     M12   Krkonoše        10:30:00        
+12    Lukáš Kroupa                   M12   Jilemnice       10:30:00        
+13    Jáchym Strašlipka              M12   Ruprechtice     10:30:00        
+14    Tomáš Seidl                    M12   SKP Harrach.    10:30:00        
+15    Matěj Kocourek                 M13   Mikulášovice    10:30:00        
+16    Lukáš Kulhánek                 M13   Krkonoše        10:30:00        
+17    Vojtěch Kalivoda               M13   Klecany         10:30:00        
+18    Vojtěch Hoffman                M13   KB Trefa        10:30:00        
+19    Jakub Bouška                   M13   Zadov           10:30:00        
+20    Tomáš Svatý                    M13   Jilemnice       10:30:00        
+21    Matyáš Menoušek                M13   Krkonoše        10:30:00        
+22    Matěj Kozák                    M13   Elán Zruč       10:30:00        
+23    Theodor Čapek                  M13   SKPKornspitz    10:30:00        
+24    Patrik Plecháč                 M13   Jilemnice       10:30:00        
+25    Štěpán Sauer                   M13   Jasan Aš        10:30:00        
+26    Natálie Ludvíková              W12   Mikulášovice    10:30:00        
+27    Lucie Jandurová                W12   Krkonoše        10:30:00        
+28    Jolana Závacká                 W12   Ruprechtice     10:30:00        
+29    Eliška Polonská                W12   Jilemnice       10:30:00        
+30    Sára Červinková                W12   Krkonoše        10:30:00        
+31    Michaela Sluková               W12   Jasan Aš        10:30:00        
+32    Alena Gruntová                 W13   Jílové          10:30:00        
+33    Ilona Plecháčová               W13   Krkonoše        10:30:00        
+34    Simona Guitti                  W13   KB Trefa        10:30:00        
+35    Eliška Drbohlavová             W13   Klecany         10:30:00        
+36    Dora Křístková                 W13   Jasan Aš        10:30:00        
+37    Viktorie Dobešová              W13   Jasan Aš        10:30:00        
+38    Nela Johnová                   W13   Jilemnice       10:30:00        
+39    Martina Řáhová                 W13   Elán Zruč       10:30:00        
+40    Kateřina Mečířová              W13   Krkonoše        10:30:00        
+41    Viktorie Poluhová              W13   KB Trefa        10:30:00        
+42    Valerie Křížová                W13   SKP Harrach.    10:30:00        
+43    Natálie Martinková             W13   SKP Harrach.    10:30:00        
+44    Zuzana Kohoutová               W13   SKPKornspitz    10:30:00        
+45    Klára Kreuzová                 W13   Manušice        10:30:00        
+46    Agáta Neckářová                W13   Ruprechtice     10:30:00        
+47    Berenika Lajtkepová            W13   Ruprechtice     10:30:00        
+48    Natálie Dlabová                W13   Jilemnice       10:30:00        
+49    Pavla Kreuzová                 W13   Manušice        10:30:00        
+50    Jakub Farský                   M14   Ruprechtice     10:30:00        
+51    Jan Vaňha                      M14   Klecany         10:30:00        
+52    Vojtěch Číž                    M14   SKIBI VM        10:30:00        
+53    Jakub Kašpar                   M14   KB Trefa        10:30:00        
+54    Tomáš Sucharda                 M14   Jilemnice       10:30:00        
+55    František Štěrba               M14   Bystřice p.H    10:30:00        
+56    Jan Břenek                     M14   Jílové          10:30:00        
+57    Oliver Hladík                  M14   Jílové          10:30:00        
+58    Štěpán Kuřák                   M14   Ruprechtice     10:30:00        
+59    Antonín Hron                   M14   Krkonoše        10:30:00        
+60    Jan Zátka                      M15   Manušice        10:30:00        
+61    Ondřej Jiránek                 M15   Ruprechtice     10:30:00        
+62    Matěj Kunčík                   M15   Krkonoše        10:30:00        
+63    Antonín Španiel                M15   Klecany         10:30:00        
+64    Ondřej Berger                  M15   Jilemnice       10:30:00        
+65    Michal Dobrovský               M15   Blansko         10:30:00        
+66    Martin Hála                    M15   KB Trefa        10:30:00        
+67    Andrea Pánková                 W14   SKP Harrach.    10:30:00        
+68    Natálie Mociková               W14   Mikulášovice    10:30:00        
+69    Viktorie Kirchnerová           W14   Mikulášovice    10:30:00        
+70    Miroslava Červená              W14   KB Trefa        10:30:00        
+71    Tereza Novotná                 W14   Krkonoše        10:30:00        
+72    Linda Buštová                  W14   Jilemnice       10:30:00        
+73    Veronika Šípková               W14   Ruprechtice     10:30:00        
+74    Monika Obermajerová            W14   SKIBI VM        10:30:00        
+75    Klára Vitvarová                W14   SKPKornspitz    10:30:00        
+76    Simona Votočková               W14   Jilemnice       10:30:00        
+77    Daniela Tomášková              W14   Krkonoše        10:30:00        
+78    Adéla Švitorková               W14   Mikulášovice    10:30:00        
+79    Veronika Kirchnerová           W14   Mikulášovice    10:30:00        
+80    Diana Hable                    W15   SKPKornspitz    10:30:00        
+81    Denisa Brunátová               W15   Elán Zruč       10:30:00        
+82    Eliška Seidlová                W15   SKP Harrach.    10:30:00        
+83    Nikola Jindráková              W15   Jasan Aš        10:30:00        
+84    Anna Kulhánková                W15   Krkonoše        10:30:00        
+85    Aneta Erlebachová              W15   Jilemnice       10:30:00        
+86    Veronika Pospíšilová           W15   Ruprechtice     10:30:00        
+87    Lucie Paulusová                W15   Jilemnice       10:30:00        
+88    Lucie Bermannová               W15   Jilemnice       10:30:00        
+89    Tereza Buďárková               W15   Jilemnice       10:30:00        
+90    Markéta Smetanová              W15   SKPKornspitz    10:30:00        
+91    Rozálie Šulcová                W15   Jilemnice       10:30:00        
+92    Terezie Dlabová                W15   Jilemnice       10:30:00        
